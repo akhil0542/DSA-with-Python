@@ -14,7 +14,6 @@ else:
 
 
 
-
 # 2nd way using function
 
 def check_palindrome(num):
